@@ -1,0 +1,6 @@
+---
+    - name: Create group
+      group:
+       name: dev
+       state:  present
+  
